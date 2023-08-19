@@ -1,5 +1,5 @@
 unit CheckIfConnectedToInternet_u;
-
+//Requires Delphi 7 Or Above
 interface
 
 uses
